@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Tutorial on how to use Github.
